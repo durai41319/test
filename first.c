@@ -1,8 +1,7 @@
 #include<stdio.h>
-1
-  2
-  3
-  4
+void main()
+{printf("hello ");
+}
   
 
 
