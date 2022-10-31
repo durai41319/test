@@ -1,17 +1,11 @@
 #include<stdio.h>
 void main()
-{printf("hello ");
+{printf("hh# ");
 }
-  
+Aai All Hello Ai
 
+hello
 
+hai
 
-
-
-
-
-
-
-
-
-
+hello
